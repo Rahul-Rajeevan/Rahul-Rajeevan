@@ -3,7 +3,7 @@
 <a href="https://drive.google.com/file/d/1_iMSw_AD1TBCoIPNVSj-k6E71IBuvEIh/view?usp=sharing">Resume</a>
 <a href="https://rahul-rajeevan-portfolio.netlify.app/">Portfolio</a>
 <p> <img src="https://komarev.com/ghpvc/?username=rahul-rajeevan&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-rajeevan" /> </p>
-<img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api?username=rahul-rajeevan&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rahul-rajeevan&show_icons=true&theme=radical"/>
 
 <img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-rajeevan"/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
