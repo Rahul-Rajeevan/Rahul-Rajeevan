@@ -37,6 +37,7 @@
 
 - 📫 How to reach me **rahul.rajeevan4@gmail.com**
 
+<img align="left" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" />
 
 <br/>
 <h3 align="left">Connect with me:</h3>
