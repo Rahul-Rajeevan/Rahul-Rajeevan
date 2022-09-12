@@ -1,22 +1,22 @@
 # Hi 👋, I'm Rahul Rajeevan
 ### <i> MERN stack developer </i>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rahul-rajeevan&show_icons=true&theme=radical"/>
-
-<img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-rajeevan"/>
-
-<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-
-
-<p> <img src="https://komarev.com/ghpvc/?username=rahul-rajeevan&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-rajeevan" /> </p>
 <a href="https://drive.google.com/file/d/1_iMSw_AD1TBCoIPNVSj-k6E71IBuvEIh/view?usp=sharing">Resume</a>
 <a href="https://rahul-rajeevan-portfolio.netlify.app/">Portfolio</a>
+<p> <img src="https://komarev.com/ghpvc/?username=rahul-rajeevan&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-rajeevan" /> </p>
+<img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api?username=rahul-rajeevan&show_icons=true&theme=radical"/>
+
+<img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-rajeevan"/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img align="left" width="13%" height="50px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img align="left" width="13%" height="50px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align="left" width="12%" height="50px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="left" width="12%" height="50px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img align="left" width="12%" height="50px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="left" width="12%" height="50px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img align="left" width="12%" height="50px" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
+<br/><br/><br/>
+
+
 <br/>
 <h3>PROJECTS</h3>
 <ul>
