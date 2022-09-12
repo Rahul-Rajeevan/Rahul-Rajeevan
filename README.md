@@ -13,7 +13,7 @@
 </ul>
 <p align="left"> <a href="https://twitter.com/rahul_rajeevan1" target="blank"><img src="https://img.shields.io/twitter/follow/rahul_rajeevan1?logo=twitter&style=for-the-badge" alt="rahul_rajeevan1" /></a> </p>
 
-- 🔭 I’m currently working on **Sugar Cosmetics Clone**
+- 🔭 I’m currently working on **Everhour Clone**
 
 - 🌱 I’m currently learning **React, Redux & Mongo Frameworks**
 
