@@ -15,7 +15,7 @@
 
 
 <p> <img src="https://komarev.com/ghpvc/?username=rahul-rajeevan&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-rajeevan" /> </p>
-<a href="">Resume</a>
+<a href="https://drive.google.com/file/d/1_iMSw_AD1TBCoIPNVSj-k6E71IBuvEIh/view?usp=sharing">Resume</a>
 <a href="https://rahul-rajeevan-portfolio.netlify.app/">Portfolio</a>
 <br/>
 <h3>PROJECTS</h3>
