@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rahul Rajeevan
+# Hi <img src="https://user-images.githubusercontent.com/53399843/153120547-3254915a-7e42-41be-820c-91c1559b8354.gif"  height="40" width="40px"/>, I'm Rahul Rajeevan
 ### <i> MERN stack developer</i>
 <a href="https://drive.google.com/file/d/1_iMSw_AD1TBCoIPNVSj-k6E71IBuvEIh/view?usp=sharing">Resume</a>
 <a href="https://rahul-rajeevan-portfolio.netlify.app/">Portfolio</a>
