@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/101565872/192016513-cad2567b-137e-4417-bd05-55a0c6a0be1c.png"/>
 <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/53399843/153120547-3254915a-7e42-41be-820c-91c1559b8354.gif"  height="40" width="40px"/>, I'm Rahul Rajeevan</h1>
 <h3><i> MERN stack developer</i></h3>
-<h4>I enjoy developing websites 👨🏻‍💻 and learning about new web technologies. Do checkout  some cool projects that I have created.  I believe smart work beats hard work.  I enjoy reading books 📚, gardening🌱🪴, watching night sky 🌠 and digital sketching 🎨. </h4>
+<h4>I enjoy building websites 👨🏻‍💻 and learning about new web technologies. Do checkout  some cool projects that I have created.  I believe smart work beats hard work.  I enjoy reading books 📚, gardening🌱🪴, watching night sky 🌠 and digital sketching 🎨. </h4>
 <a href="https://drive.google.com/file/d/1_iMSw_AD1TBCoIPNVSj-k6E71IBuvEIh/view?usp=sharing">Resume</a>
 <a href="https://rahul-rajeevan-portfolio.netlify.app/">Portfolio</a>
 <br/><br/>
