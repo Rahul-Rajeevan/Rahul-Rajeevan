@@ -5,7 +5,7 @@
 <a href="https://github.com/Rahul-Rajeevan/Rahul-Rajeevan/files/9694874/Rahul_Rajeevan_Resume.6.pdf" download="Rahul_Rajeevan_Resume">Resume</a>
 <a href="https://rahul-rajeevan-portfolio.netlify.app/">Portfolio</a>
 <br/><br/>
-<p> <img src="https://komarev.com/ghpvc/?username=rahul-rajeevan&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-rajeevan" /> </p>
+<img src="https://komarev.com/ghpvc/?username=rahul-rajeevan&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-rajeevan" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rahul-rajeevan&show_icons=true&theme=radical"/>
 
 <img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-rajeevan"/>
