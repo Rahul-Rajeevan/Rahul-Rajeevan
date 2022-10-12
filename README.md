@@ -6,10 +6,7 @@
 <a href="https://rahul-rajeevan-portfolio.netlify.app/">Portfolio</a>
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=rahul-rajeevan&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-rajeevan" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rahul-rajeevan&show_icons=true&theme=radical"/>
-
-<img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-rajeevan"/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 <h1 align="center" >✨ Tools i use ✨</h1>
 <img align="left" width="11%" height="40px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img align="left" width="11%" height="40px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
