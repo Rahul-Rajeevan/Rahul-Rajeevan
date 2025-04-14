@@ -1,76 +1,98 @@
-<img src="https://github.com/Rahul-Rajeevan/Reliance_Digital/assets/101565872/95ed91ff-f9bb-4d24-8efb-042397095f6a"/>
-<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/53399843/153120547-3254915a-7e42-41be-820c-91c1559b8354.gif"  height="40" width="40px"/>, I'm Rahul Rajeevan</h1>
-<h3><i> MERN stack developer</i></h3>
-<h4>I enjoy building websites 👨🏻‍💻 and learning about new web technologies. Do checkout  some cool projects that I have created.  I believe smart work beats hard work.  I enjoy reading books 📚, gardening🌱🪴, watching night sky 🌠 and digital sketching 🎨. </h4>
-<a href="https://github.com/Rahul-Rajeevan/Rahul-Rajeevan/files/9694874/Rahul_Rajeevan_Resume.6.pdf" download="Rahul_Rajeevan_Resume">Resume</a>
-<a href="https://rahul-rajeevan-portfolio.netlify.app/">Portfolio</a>
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=rahul-rajeevan&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-rajeevan" />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahul-Rajeevan" alt="rahul-rajeevan" /></a> </p>
-<br/><br/>
-<h1 align="center" >✨ Tools i use ✨</h1>
-<img align="left" width="11%" height="40px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img align="left" width="11%" height="40px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="left" width="11%" height="40px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" width="11%" height="40px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" width="11%" height="40px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" width="11%" height="40px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="left" width="11%" height="40px" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
-<br/><br/>
-<img align="left" width="11%" height="40px" src="https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772be1ce0cb02da5879e5614e236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"/>
-<img align="left" width="11%" height="40px" src="https://camo.githubusercontent.com/7f73136d92799b19be179d1ed87b461120c35ed917c7d5ab59a7606209da7bd3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"/>
-<img align="left" width="11%" height="40px" src="https://camo.githubusercontent.com/55037e0ff8e2c9df84ad631c3d0443a7316776ede7459a5872ccb336d7df2781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465"/>
-<img align="left" width="11%" height="40px" src="https://camo.githubusercontent.com/879423585ed087f3c973857c43ba7e7d84f52c993d2c937055726339fbf921d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465"/>
-<img align="left" width="11%" height="40px" src="https://camo.githubusercontent.com/85232e7b5095a716ed285b0b2150cc5b400a0bb602539912d26d312ea0b0d95b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d6634346432373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"/>
-<img align="left" width="11%" height="40px" src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"/>
-<img align="left" width="11%" height="40px" src="https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465"/>
-<img align="left" width="11%" height="40px" src="https://camo.githubusercontent.com/41326de293d3848e2ab0f29bf1680427128757fe6b586ceddf1097cb4eeb5ff7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65642d2d636f6d706f6e656e74732d4442373039333f7374796c653d666f722d7468652d6261646765266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465"/>
-<br/><br/><br/>
+<div align="center">
+  
+# Hi there, I'm Rahul Rajeevan <img src="https://user-images.githubusercontent.com/53399843/153120547-3254915a-7e42-41be-820c-91c1559b8354.gif" height="30" width="30px"/>
 
+### Full Stack MERN Developer
 
-<br/>
-<h3>PROJECTS</h3>
-<ul>
-<li><h4>BeautyBebo CLone</h4> <a href="https://elegant-centaur-093589.netlify.app/">LIVE </a><a href="https://github.com/KaustubhBadve/Beutybebo-Cloned"> REPO</a></li>
-<li><h4>Reliance Digital Clone</h4> <a href="https://reliance-digital-clone.netlify.app/">LIVE </a><a href="https://github.com/Rahul-Rajeevan/quarrelsome-moon-997"> REPO</a></li>
-<li><h4>Sugar Cosmetics Clone</h4> <a href="https://sugars.netlify.app/">LIVE </a><a href="https://github.com/Nachiketlele/Sugar"> REPO</a></li>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://rahul-rajeevan-portfolio.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Rahul-Rajeevan/Rahul-Rajeevan/files/9694874/Rahul_Rajeevan_Resume.6.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-rajeevan)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rahul_rajeevan1)
+[![Medium](https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahul.rajeevan4)
 
-</ul>
-<p align="left"> <a href="https://twitter.com/rahul_rajeevan1" target="blank"><img src="https://img.shields.io/twitter/follow/rahul_rajeevan1?logo=twitter&style=for-the-badge" alt="rahul_rajeevan1" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=rahul-rajeevan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-- 🔭 I’m currently working on **Everhour Clone**
+</div>
 
-- 🌱 I’m currently learning **React, Redux & Mongo Frameworks**
+<img align="right" width="400" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" />
 
-- 📝 I regularly write articles on [https://medium.com/@rahul.rajeevan4](https://medium.com/@rahul.rajeevan4)
+## 👨‍💻 About Me
 
-- 💬 Ask me about ** HTML ,CSS, JavaScript, React, Redux, TypeScript, MongoDB ,Mongoose **
+I'm a passionate MERN stack developer who enjoys building websites and exploring new web technologies. I believe smart work beats hard work.
 
-- 📫 How to reach me **rahul.rajeevan4@gmail.com**
+- 🔭 Currently working on: **Everhour Clone**
+- 🌱 Learning: **React, Redux & MongoDB Frameworks**
+- 💬 Ask me about: **HTML, CSS, JavaScript, React, Redux, TypeScript, MongoDB, Mongoose**
+- 📫 Reach me at: **rahul.rajeevan4@gmail.com**
+- 📚 Hobbies: Reading books, gardening 🌱, stargazing 🌠, and digital sketching 🎨
 
-<img align="left" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" />
+<br clear="right"/>
 
-<br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rahul_rajeevan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahul_rajeevan1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahul-rajeevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-rajeevan" height="30" width="40" /></a>
-<a href="https://www.behance.net/rahulrajee5366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rahulrajee5366" height="30" width="40" /></a>
-<a href="https://medium.com/@rahul.rajeevan4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahul.rajeevan4" height="30" width="40" /></a>
-</p>
-<br/>
-<h3 align="left">My Blogs:</h3>
-<li><a href="https://medium.com/@rahul.rajeevan4/promises-in-javascript-7a11f1f2049">Promises in JavaScript</a></li>
-<li><a href="https://medium.com/@rahul.rajeevan4/creating-a-clone-of-the-array-datatype-in-javascript-ef82b82f1553">Creating a clone of the array datatype in JavaScript</a></li>
-<br/>
-<!-- <h3 align="left">Languages and Tools:</h3> -->
+## 🛠️ Tech Stack
 
-<!-- <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p> -->
+<div align="center">
+  
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br/>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
+### UI Libraries
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-rajeevan&" alt="rahul-rajeevan" /></p>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=rahul-rajeevan&theme=react-dark"/>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
+</div>
+
+## 🚀 Projects
+
+<div align="center">
+
+| Project | Live Demo | Repository |
+|---------|-----------|------------|
+| **BeautyBebo Clone** | [View Live](https://elegant-centaur-093589.netlify.app/) | [GitHub Repo](https://github.com/KaustubhBadve/Beutybebo-Cloned) |
+| **Reliance Digital Clone** | [View Live](https://reliance-digital-clone.netlify.app/) | [GitHub Repo](https://github.com/Rahul-Rajeevan/quarrelsome-moon-997) |
+| **Sugar Cosmetics Clone** | [View Live](https://sugars.netlify.app/) | [GitHub Repo](https://github.com/Nachiketlele/Sugar) |
+
+</div>
+
+## ✍️ Latest Blog Posts
+
+- [Promises in JavaScript](https://medium.com/@rahul.rajeevan4/promises-in-javascript-7a11f1f2049)
+- [Creating a clone of the array datatype in JavaScript](https://medium.com/@rahul.rajeevan4/creating-a-clone-of-the-array-datatype-in-javascript-ef82b82f1553)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-rajeevan&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahul-Rajeevan&theme=darkhub&row=1&column=6" alt="Trophy" />
+</div>
+
+<hr>
+
+<div align="center">
+  <h3>Connect with me:</h3>
+  <a href="https://twitter.com/rahul_rajeevan1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rahul-rajeevan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.behance.net/rahulrajee5366"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" /></a>
+  <a href="https://medium.com/@rahul.rajeevan4"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+</div>
